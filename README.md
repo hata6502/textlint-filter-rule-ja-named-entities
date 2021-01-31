@@ -39,7 +39,7 @@ yarn add textlint-filter-rule-ja-named-entities
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/hata6502/textlint-filter-rule-ja-named-entities/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/textlint-ja/textlint-filter-rule-ja-named-entities/issues).
 
 ## Show your support
 
@@ -48,15 +48,13 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Tomoyuki Hata <hato6502@gmail.com>](https://github.com/hata6502).<br />
-This project is [CC-BY-SA-3.0](https://github.com/hata6502/textlint-filter-rule-ja-named-entities/blob/master/LICENSE) licensed.
+This project is [CC-BY-SA-3.0](https://github.com/textlint-ja/textlint-filter-rule-ja-named-entities/blob/master/LICENSE) licensed.
 
 ## Disclaimer
 
 The following creations are included in this product:
 
 - [stockmarkteam/ner-wikipedia-dataset](https://github.com/stockmarkteam/ner-wikipedia-dataset)
-
-Please see also [DISCLAIMER.md](https://github.com/hata6502/textlint-filter-rule-ja-named-entities/blob/master/DISCLAIMER.md).
 
 ---
 
